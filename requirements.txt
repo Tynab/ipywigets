@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+jupyter
+matplotlib
+pandas
+seaborn
+squarify
